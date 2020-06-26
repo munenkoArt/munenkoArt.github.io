@@ -1,2 +1,2 @@
-# munenkoArt.github.io
-Мої роботи
+# Serhii Munenko
+My works
